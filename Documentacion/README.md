@@ -10,3 +10,5 @@
  6.3.ahora añadiremos la etiqueta <main>, esto sirve para guardar o identificar el contenido principal del html.
  6.4.ahora añadiremos <article>, esto sirve para definir contenido independiente o autonomo.
  6.5.añadimos las etiquetas <ul> y <li>, las cuales sirven para crear listas con eventos relacionados
+ 6.6.Añadiremos las etiquetas <ul> y <li> en la zona de autores y series para que de esta manera se vean mas ordenado y porque esta informacion esta relacionada entre si.
+ 
