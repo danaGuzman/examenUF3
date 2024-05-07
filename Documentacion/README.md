@@ -6,4 +6,6 @@
 5.analizamos que hay algun error de accesibilidad en el button, asi que añadiremos un aria-label
 6.ahora vamos a analizar la estructura html para poder modificarla correctamente:
  6.1.Vamos añadirme una etiqueta <title>
- 6.2.
+ 6.2.ahora añadiremos la etiqueta <header>, aparte el titulo lo cambiamos por un <h1>
+ 6.3.ahora añadiremos la etiqueta <main>, esto sirve para guardar o identificar el contenido principal del html.
+ 6.4.ahora añadiremos <article>, esto sirve para definir contenido independiente o autonomo.
